@@ -1,6 +1,10 @@
 @import url('https://db.onlinewebfonts.com/c/cc63ce6e304da54106961b31a1d744a9?family=Apercu');
 @import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-@import url('https://db.onlinewebfonts.com/c/e7d1af8e72502b31afdf671010e5898b?family=Druk+Cyr');
+/*@import url('https://db.onlinewebfonts.com/c/e7d1af8e72502b31afdf671010e5898b?family=Druk+Cyr');*/
+@font-face {
+    font-family: "Druk Cyr";
+    src: url("./DrukCyr-Bold.ttf");
+}
 a {
     text-decoration: none !important;
     color: black;
