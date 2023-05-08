@@ -3,7 +3,7 @@
 /*@import url('https://db.onlinewebfonts.com/c/e7d1af8e72502b31afdf671010e5898b?family=Druk+Cyr');*/
 @font-face {
     font-family: "Druk Cyr";
-    src: url("./DrukCyr-Bold.ttf");
+    src: url("DrukCyr-Bold.ttf");
 }
 a {
     text-decoration: none !important;
